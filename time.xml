@@ -1,0 +1,14 @@
+<?xml  version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href= "showTime.css" type= "text/css" ?>
+<root>
+	<time>
+		北京时间：
+		<hour>   12时   </hour>
+		<minute> 56分   </minute>
+	</time>
+	<time>
+		格林尼治时间：
+		<hour>  4时 </hour>
+		<minute>56分</minute>
+	</time>
+</root>
