@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+<xml-stylesheet href="showTime.css"type="text/css"?>
+time
+{ display:block;font-siza:18pt;font-weight:bold 
+}
+hour
+{ display:line;font-siza:16pt;font-style:italic 
+}
+minute
+{ display:line;font-siza:9pt;font-weight:bold 
+}
+time
+{ display:block;font-siza:18pt;font-weight:bold 
+}
+hour
+{ display:line;font-siza:16pt;font-style:italic 
+}
+minute
+{ display:line;font-siza:9pt;font-weight:bold 
+}
